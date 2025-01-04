@@ -17,7 +17,7 @@ This repository contains a modified version of the **DBNinja** database manageme
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/dbninja-php8.git
+    git clone https://github.com/RezaRamezanpour/dbninja-php8.git
     ```
 
 2. Navigate to the project directory:
